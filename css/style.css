@@ -728,7 +728,7 @@ body.landing #header nav a {
 
 #banner {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/hero-bg-01.jpg);
-  background-position: center center;
+  background-position: fixed;
   background-size: cover;
   color: #ffffff;
   padding: 14em 0em 14em;
